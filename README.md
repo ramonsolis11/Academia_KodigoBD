@@ -18,12 +18,9 @@ Este es el README para el Sistema Academia KODIGO, una aplicación web para la g
 - **Servidor de base de datos:** Debes tener un servidor de base de datos como MySQL, PostgreSQL, etc.
 - **PHP 8 o superior:** Asegúrate de tener PHP en la versión 8 o superior instalado..
 
-## 🛠️ Instalación
-- **Clona** el repositorio en tu servidor web.
-- **Crea** una base de datos en tu servidor de base de datos.
-- **Importa** el archivo `academia_kodigo.sql` en tu base de datos.
-- **Configura** la conexión a la base de datos en el archivo `config.php`.
-- **Abre** la aplicación en tu navegador.
+## 🔧 Instalación
+Clona el repositorio desde GitHub:
+
 
 ## 📖 Uso
 - **Abre** la aplicación en tu navegador.
